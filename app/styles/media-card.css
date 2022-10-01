@@ -1,0 +1,6 @@
+.card {
+    width: 20% !important;
+    border: none !important;
+    margin: 20px;
+    display: inline-block !important;
+}

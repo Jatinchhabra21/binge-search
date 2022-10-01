@@ -1,1 +1,13 @@
-@import "./navbar.css";    
+@import "./navbar.css";  
+@import "./media-card.css";
+
+.ember-application {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.container {
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
